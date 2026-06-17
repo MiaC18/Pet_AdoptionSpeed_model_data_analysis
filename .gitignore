@@ -12,6 +12,7 @@ __pycache__/
 # === Jupyter ===
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+notebook/
 
 # === 数据文件（大的） ===
 data/raw/train.csv
